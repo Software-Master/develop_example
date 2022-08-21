@@ -9,3 +9,4 @@ a = "Hola mundo"
 # git push origin main    ----> sube lo que hagamos al repositorio
 # git pull origin main    ----> Baja lo que hago en el repositorio
 # git checkout -b nameBranch    ----> Se crea un branch
+# git fetch origin main    ----> Este se trae el branch del repositorio
