@@ -10,3 +10,4 @@ a = "Hola mundo"
 # git pull origin main    ----> Baja lo que hago en el repositorio
 # git checkout -b nameBranch    ----> Se crea un branch
 # git fetch origin main    ----> Este se trae el branch del repositorio
+# git merge    ----> Une varios branch
