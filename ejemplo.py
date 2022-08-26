@@ -1,6 +1,4 @@
 a = "Hola mundo"
-
-
 # Comandos de github
 # git status    ----> muestra cuáles son los archivos que necesitan commit
 # git add ejemplo.py    ----> agregar al repositorio el archivo ejemplo.py
