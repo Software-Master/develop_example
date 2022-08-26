@@ -11,3 +11,4 @@ a = "Hola mundo"
 # git remote add origin + link -----> sube al repositorio vacio lo que hacemos en el local.
 # git remote ----> abre el remoto
 # git log ---> muestra fehca y nombre de quien realizó cambios
+# git checkout----> muestra la rama sobre la que deseamos trabajar
