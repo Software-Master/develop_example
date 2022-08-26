@@ -9,3 +9,4 @@ a = "Hola mundo"
 # git push origin main    ----> sube lo que hagamos al repositorio
 # git pull origin main    ----> Baja lo que hago en el repositorio
 # git remote add origin + link -----> sube al repositorio vacio lo que hacemos en el local.
+# git remote ----> abre el remoto
