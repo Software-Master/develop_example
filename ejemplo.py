@@ -8,3 +8,4 @@ a = "Hola mundo"
 # git commit -m "Creamos variable "hola mundo"    ----> comentario de lo que hice en el código.
 # git push origin main    ----> sube lo que hagamos al repositorio
 # git pull origin main    ----> Baja lo que hago en el repositorio
+# git remote add origin + link -----> sube al repositorio vacio lo que hacemos en el local.
