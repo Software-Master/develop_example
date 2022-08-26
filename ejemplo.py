@@ -10,3 +10,4 @@ a = "Hola mundo"
 # git pull origin main    ----> Baja lo que hago en el repositorio
 # git remote add origin + link -----> sube al repositorio vacio lo que hacemos en el local.
 # git remote ----> abre el remoto
+# git log ---> muestra fehca y nombre de quien realizó cambios
